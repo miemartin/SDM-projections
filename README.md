@@ -1,4 +1,4 @@
-# SDM-projections
+# Climate-Driven Range Shifts of Aedes aegypti and Aedes albopictus Predicted Using Machine Learning Approaches
 
 Species distribution modeling pipeline for *Aedes aegypti* and *Aedes albopictus*. Uses Wallace v2 and MaxEnt to create current and CMIP6 future projections, applies 10th-percentile training presence threshold (p10), and computes gain/loss and area statistics.
 
